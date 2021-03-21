@@ -151,6 +151,7 @@ En adoptant la démarche Propre, les flux opérationnels deviennent plus techniq
 6. Rejouer les analyses à la demande dans R (y compris en cas de modification des sources)
 7. Diffuser (en ligne, sur un serveur de partage, par envoi de mail, ou produire un document imprimé…) depuis R et de façon automatique et intégrée
 
+:::
 
 ## Pour en savoir plus
 
@@ -163,7 +164,6 @@ La documentation technique : https://rdes_dreal.gitlab.io/propre.rpls/dev/articl
 La trame des publications : https://gitlab.com/rdes_dreal/propre.rpls/-/wikis/Trame-de-publication-r%C3%A9gionale-RPLS
 
 
-:::
 
 
 :::footer
